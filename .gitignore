@@ -1,0 +1,63 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Web related
+.web/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Windows related
+/windows/flutter/ephemeral/
+Visual Studio.bak
+/windows/CMakeFiles/
+/windows/CMakeCache.txt
+/windows/cmake_install.cmake
+/windows/flutter/cmake_install.cmake
+
+# Firebase Related
+.firebase/
+firebase-debug.log
+firestore-debug.log
+pubspec-overrides.yaml
+/lib/firebase_options.dart

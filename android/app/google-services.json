@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509849159949",
+    "project_id": "printellect-test",
+    "storage_bucket": "printellect-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509849159949:android:e0f3ef1147bee5ecac0844",
+        "android_client_info": {
+          "package_name": "com.example.printellect_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeK0iOID9X3NsFSgqCuE1P5tihr1e_exg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
